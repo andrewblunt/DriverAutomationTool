@@ -1,0 +1,20 @@
+[
+    {
+        "CatalogVersion":  "23.03.17",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "24.07.22",
+        "Manufacturer":  "Microsoft",
+        "Model":  "Surface Pro 10 for Business",
+        "Product":  "Surface_Pro_10_for_Business_2079",
+        "Name":  "Surface Pro 10 for Business Win11 23H2",
+        "PackageID":  "105947",
+        "FileName":  "SurfacePro10forBusiness_Win11_22631_24.071.11617.0.msi",
+        "Url":  "https://download.microsoft.com/download/d/c/c/dcc1042a-1a67-4b20-b0cd-5322f1604154/SurfacePro10forBusiness_Win11_22631_24.071.11617.0.msi",
+        "DownloadCenter":  "https://www.microsoft.com/en-us/download/details.aspx?id=105947",
+        "OSVersion":  "Windows 11 x64",
+        "OSReleaseId":  "23H2",
+        "OSBuild":  "22631",
+        "HashMD5":  "e0e433b7dd45455c1b007d6fb1495c96"
+    }
+]
