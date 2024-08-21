@@ -1,0 +1,20 @@
+[
+    {
+        "CatalogVersion":  "24.08.04",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.09.28",
+        "Manufacturer":  "Microsoft",
+        "Model":  "Surface Pro 6",
+        "Product":  "Surface_Pro_6_1796_Consumer",
+        "Name":  "Microsoft Surface Pro 6 Consumer Win11 21H2",
+        "PackageID":  "57514",
+        "FileName":  "SurfacePro6_Win11_22000_23.093.28805.0.msi",
+        "Url":  "https://download.microsoft.com/download/8/9/8/8986DE75-9E21-478A-B002-A7E92BA0F053/SurfacePro6_Win11_22000_23.093.28805.0.msi",
+        "DownloadCenter":  "https://www.microsoft.com/en-us/download/details.aspx?id=57514",
+        "OSVersion":  "Windows 11 x64",
+        "OSReleaseId":  "21H2",
+        "OSBuild":  "22000",
+        "HashMD5":  ""
+    }
+]
